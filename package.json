@@ -1,4 +1,5 @@
 {
+  "name": "@nicomendoza274/ng-select",
   "repository": "ng-select/ng-select",
   "engines": {
     "node": ">= 6.9.0",
