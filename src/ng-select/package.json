@@ -1,10 +1,10 @@
 {
-  "name": "@ng-select/ng-select",
-  "version": "3.2.0",
-  "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
-  "author": "@ng-select/ng-select",
+  "name": "@nico274/ng-select",
+  "version": "6.1.2",
+  "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete Mod",
+  "author": "Nico Mendoza <nicomendoza274@gmail.com>",
   "license": "MIT",
-  "repository": "ng-select/ng-select",
+  "repository": "nicomendoza274/ng-select",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
